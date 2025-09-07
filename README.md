@@ -1,6 +1,6 @@
 # Rocma Dimba-Lau 👋
 
-Développeur full-stack en BUT Informatique — passionné par le web, les SaaS et les projets full-stack. 
+Développeur full-stack en BUT Informatique : passionné par le web, les SaaS et les projets full-stack. 
 
 Actuellement en recherche d'une **alternance à partir d'octobre 2025**.
 ---
@@ -22,7 +22,7 @@ Actuellement en recherche d'une **alternance à partir d'octobre 2025**.
 
 ---
 
-## ⭐ Projets marquants
+## Projets marquants
 ### StageFlow — SaaS (chef de projet)
 - Mutualisation de tournées de concerts.  
 - Tech : Flask, JavaScript, SQL.  
@@ -39,7 +39,7 @@ Actuellement en recherche d'une **alternance à partir d'octobre 2025**.
 - Contexte : projet réalisé en environnement familial, contraintes réelles. Certaines fonctionnalités reportées (back-office, multi-domain routing).
 ---
 
-## 🎯 Ce que j'apporte
+## Ce que j'apporte
 - Conception et mise en ligne rapide de features full-stack.  
 - Esprit produit : transformer besoin métier en solution technique.  
 - Autonomie, rigueur et sens du travail en équipe.
