@@ -2,7 +2,7 @@
 
 Développeur full-stack en BUT Informatique — passionné par le web, les SaaS et les projets full-stack. 
 
-Actuellement en recherche d'une **alternance à partir d'octobre 2025** (possibilité de stage court préalable).
+Actuellement en recherche d'une **alternance à partir d'octobre 2025**.
 ---
 
 ## 🔭 À propos de moi
@@ -37,9 +37,6 @@ Actuellement en recherche d'une **alternance à partir d'octobre 2025** (possibi
 - Site vitrine avec **simulateur de devis**, formulaire de contact, intégration **Google Maps**, envoi d'emails via **Gmail SMTP**.  
 - Tech : Nuxt.js, Tailwind CSS, Firebase, intégration API Shopify.  
 - Contexte : projet réalisé en environnement familial, contraintes réelles. Certaines fonctionnalités reportées (back-office, multi-domain routing).
-
-> Toutes les descriptions ci-dessus sont compactes — ouvre les repos pour voir README dédiés, captures d'écran et démos.
-
 ---
 
 ## 🎯 Ce que j'apporte
