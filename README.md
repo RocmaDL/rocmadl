@@ -2,7 +2,7 @@
 
 Développeur full-stack en BUT Informatique : passionné par le web, les SaaS et les projets full-stack. 
 
-Actuellement en recherche d'une **alternance à partir d'octobre 2025**.
+Actuellement en recherche d'une **alternance à partir de juillet 2026**.
 ---
 
 ## 🔭 À propos de moi
